@@ -1,4 +1,4 @@
-## Foreverabc-Community Platform  
+## Foreverabc Community Platform  
 
 **Foreverabc** is a dynamic social media and digital economy platform designed to connect, collaborate, and empower users globally. This versatile system integrates various features to create a comprehensive ecosystem that blends social networking, commerce, and digital services.  
 
