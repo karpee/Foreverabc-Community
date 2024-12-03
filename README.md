@@ -20,3 +20,4 @@
 [View Project: Foreverabc](https://foreverabc.com)  
 
 Join us in building a platform that redefines digital connectivity and economic empowerment!
+<br><br>NOTE: TO VIEW MORE OF MY PROJECTS, VIEW MY REPOSITORIES: https://github.com/karpee?tab=repositories
